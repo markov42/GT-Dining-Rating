@@ -1,12 +1,12 @@
 # GT-Dining-Rating
 
-App Description
+##App Description
 This is a simple iOS app for Georgia Tech Dining Rating.
 
-App Walk-though
-https://github.com/markov42/GT-Dining-Rating/blob/main/App-Walk-though.gif
+##App Walk-though
+![App Walk-though GIF](https://github.com/markov42/GT-Dining-Rating/blob/main/App-Walk-though.gif)
 
-Required Features
+##Required Features
 - [x] 1. App displays an image of a school's logo
 - [x] 2. App has three textfields for first, last, and school names
 - [x] 3. App has a segmented control that changes student year
