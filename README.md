@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## GT_Dining_Rating
 
 ### App Description
 
