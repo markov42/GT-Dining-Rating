@@ -21,7 +21,7 @@ This is a simple iOS app for Georgia Tech Dining Rating.
 - [ ] 1. User can tap a button to change the color of the background view
 - [x] 2. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
 - [x] 3. Any stylistic changes that are not default options:
-        Made it a dining rating app instead of introducing self app. 
-        Added UITextView for multi-line text comment. 
-        Added title: GT Dining Rating, and set it in golden color. 
-        Implemented comment in the alert box.
+        * Made it a dining rating app instead of introducing self app. 
+        * Added UITextView for multi-line text comment. 
+        * Added title: GT Dining Rating, and set it in golden color. 
+        * Implemented comment in the alert box.
