@@ -6,7 +6,7 @@ This is a simple iOS app for Georgia Tech Dining Rating.
 
 ### App Walk-though
 
-<!-- <img src="https://github.com/markov42/GT-Dining-Rating/blob/main/App-Walk-though.gif" width=200><br> -->
+<img src="https://github.com/markov42/GT-Dining-Rating/blob/main/App-Walk-though.gif" width=200><br>
 
 ### Required Features
 
